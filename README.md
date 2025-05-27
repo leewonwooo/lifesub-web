@@ -327,3 +327,4 @@ k get ing
 - 박소연 "프개" - Frontend Developer
 - 최진우 "큐에이" - QA Engineer
 - 정해린 "데브옵스" - DevOps Engineer
+  
